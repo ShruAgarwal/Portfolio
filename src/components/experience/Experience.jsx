@@ -12,7 +12,7 @@ const Experience = () => {
           <h3>Familiar tech stack</h3>
           <div className="experience__content">
           <article className="experience__details">
-              <img className="img" src="https://img.icons8.com/color/344/python--v2.png"/>
+              <img className="img" src="https://img.icons8.com/color/344/python--v2.png" alt="python"/>
               <h4>Python</h4>
             </article>
             <article className="experience__details">
@@ -20,19 +20,19 @@ const Experience = () => {
               <h4>Streamlit</h4>
             </article>
             <article className="experience__details">
-              <img className="img" src="https://img.icons8.com/color/344/pandas.png"/>
+              <img className="img" src="https://img.icons8.com/color/344/pandas.png" alt="pandas"/>
               <h4>Pandas</h4>
             </article>
             <article className="experience__details">
-              <img className="img" src="https://img.icons8.com/color/344/numpy.png"/>
+              <img className="img" src="https://img.icons8.com/color/344/numpy.png" alt="numpy"/>
               <h4>Numpy</h4>
             </article>
             <article className="experience__details">
-              <img className="img" src="https://img.icons8.com/fluency/344/opencv.png"/>
+              <img className="img" src="https://img.icons8.com/fluency/344/opencv.png" alt="opencv"/>
               <h4>OpenCV</h4>
             </article>
             <article className="experience__details">
-              <img className="img" src="https://miro.medium.com/max/300/1*DEutjSYrlZYU9qw20_YlVA.png"/>
+              <img className="img" src="https://miro.medium.com/max/300/1*DEutjSYrlZYU9qw20_YlVA.png" alt="pillow"/>
               <h4>Pillow</h4>
             </article>
             <article className="experience__details">
@@ -56,7 +56,7 @@ const Experience = () => {
               <h4>Git</h4>
             </article>
             <article className="experience__details">
-              <img className="img" src="https://img.icons8.com/nolan/344/heroku.png"/>
+              <img className="img" src="https://img.icons8.com/nolan/344/heroku.png" alt="heroku"/>
               <h4>Heroku</h4>
             </article>
             <article className="experience__details">
@@ -81,7 +81,7 @@ const Experience = () => {
               <h4>FastAPI</h4>
             </article>
             <article className="experience__details">
-              <img className="img" src="https://img.icons8.com/color/344/tensorflow.png"/>
+              <img className="img" src="https://img.icons8.com/color/344/tensorflow.png" alt="tensorflow"/>
               <h4>Tensorflow</h4>
             </article>
           </div>
