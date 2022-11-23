@@ -1,9 +1,9 @@
 import React from 'react';
-import IMG1 from '/src/assets/template.pngsrc/assets/template.png';
-import IMG2 from '/src/assets/pypi.gif';
-import IMG3 from '/src/assets/magic_art.png';
-import IMG4 from '/src/assets/zodiac.gif';
-import IMG5 from '/src/assets/bot.gif';
+import IMG1 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/template.png';
+import IMG2 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/pypi.gif';
+import IMG3 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/magic_art.png';
+import IMG4 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/zodiac.gif';
+import IMG5 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/bot.gif';
 
 import './portfolio.css';
 
