@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaSuitcase, FaHandshake } from 'react-icons/fa';
-import ME from '../../assets/shru.png';
+import ME from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/shru.png';
 import './intro.css';
 
 const Intro = () => {
