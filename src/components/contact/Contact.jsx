@@ -6,7 +6,7 @@ const Contact = () => {
     <section id="contact">
       <h5>
         I do receive your messages and will respond ASAP.<br/>
-        My inbox is always open :) 
+        My inbox is always open 🙂 
       </h5>
       <h2>Contact Me</h2>
       <div className="container contact__container">
