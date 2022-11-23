@@ -10,9 +10,9 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import './achievements.css';
-import IMG1 from 'src/assets/sw_1.png'
-import IMG2 from 'src/assets/sw_2.png'
-import IMG3 from 'src/assets/sw_3.png'
+import IMG1 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/sw_1.png'
+import IMG2 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/sw_2.png'
+import IMG3 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/sw_3.png'
 
 
 const Achievements = () => {  
