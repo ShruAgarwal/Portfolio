@@ -12,7 +12,7 @@ export const soloProjects = [
     title: 'Streamlit Custom Toggle',
     img: 'assets/pypi.gif',
     technologies: '🧰Stack: Python, Typescript, HTML, Shell script, Pypi package',
-    link: 'https://pypi.org/project/streamlit-custom-toggle/',
+    link: 'https://shru-examples.streamlit.app/Heart_Toggle_Switch',
     github: 'https://github.com/ShruAgarwal/streamlit-custom-toggle',
   },
   {
@@ -35,7 +35,7 @@ export const soloProjects = [
     id: 5,
     title: 'Pencil Sketch Bot',
     img: 'assets/bot.gif',
-    technologies: '🧰Stack: Python, Numpy, OpenCV, Pillow, Tweepy, Heroku',
+    technologies: '🧰Stack: Python, Numpy, OpenCV, Pillow, Tweepy, GitHub Actions',
     link: 'https://twitter.com/i/flow/login',
     github: 'https://github.com/ShruAgarwal/Twitter-bot',
   },

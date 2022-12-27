@@ -37,6 +37,12 @@
     gap: 1rem;
     margin-bottom: 2rem; 
 }
+.portfolio__item-cta-1 {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem; 
+    justify-content: center;
+}
 
 .portfolio__item-content {
     height: 45%;

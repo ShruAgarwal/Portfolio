@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaSuitcase, FaHandshake } from 'react-icons/fa';
-import ME from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/shru.png';
+import ME from '../../assets/shru.png';
 import './intro.css';
 
 const Intro = () => {
@@ -24,7 +24,7 @@ const Intro = () => {
             <article className="about__card">
               <FaHandshake className="about__icon" />
               <h5>Let's Collaborate</h5>
-              <small>Got a new idea, or have an exciting project, just DM me on Twitter or LinkedIn </small>
+              <small>Got a new idea, or have an exciting project, just DM me on Twitter or LinkedIn</small>
             </article>
           </div>
           <p>I'm a passionate, curious & quick learner. I love to self-learn when 
@@ -33,7 +33,7 @@ const Intro = () => {
             which I'd like to use in future projects. Also, I love to share my and other peoples' 
             best apps/projects through writing articles on Hashnode.<br/><br/>
             
-            ⭐ Participating in hackathons and attending virtual events, has paved the way for me to learn & explore new things!
+            ⭐ My motive is to create impactful contributions with my skills that have the potential to improve the lives of millions.
           </p>
         </div>
       </div>

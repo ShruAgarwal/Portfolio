@@ -6,7 +6,7 @@
 
 .experience__container > div {
     background: var(--color-bg-variant);
-    padding: 2.4rem 5rem;
+    padding: 2.4rem 4rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -42,11 +42,16 @@
 .img {
     max-width: 100%;
     height: auto;
-    width: 30px;
+    width: 35px;
 }
 .st_img {
     height: 30px;
     width: 48px;
+}
+.lottie {
+    justify-content: center;
+    width: 380px; 
+    height: 320px
 }
 @media screen and (max-width: 1024px){
     .experience__container {

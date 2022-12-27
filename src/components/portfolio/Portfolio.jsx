@@ -1,12 +1,11 @@
 import React from 'react';
-import IMG1 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/template.png';
-import IMG2 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/pypi.gif';
-import IMG3 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/magic_art.png';
-import IMG4 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/zodiac.gif';
-import IMG5 from 'https://github.com/ShruAgarwal/Portfolio/blob/main/src/assets/bot.gif';
+import IMG1 from '../../assets/template.png';
+import IMG2 from '../../assets/pypi.gif';
+import IMG3 from '../../assets/magic_art.png';
+import IMG4 from '../../assets/zodiac.gif';
+import IMG5 from '../../assets/bot.gif';
 
 import './portfolio.css';
-
 const Portfolio = () => {
   const soloProjects = [
     {
@@ -24,8 +23,8 @@ const Portfolio = () => {
       title: 'Streamlit Custom Toggle',
       img: IMG2,
       description: 'A custom component to load heart-shaped Toggle Switch widget in Streamlit.',
-      technologies: '🧰Stack: Python, Typescript, HTML, Shell script, Pypi package',
-      link: 'https://pypi.org/project/streamlit-custom-toggle/',
+      technologies: '🧰Stack: Python, Typescript, React, HTML, Shell script, Pypi package',
+      link: 'https://shru-examples.streamlit.app/Heart_Toggle_Switch',
       github: 'https://github.com/ShruAgarwal/streamlit-custom-toggle',
     },
     {
@@ -51,7 +50,7 @@ const Portfolio = () => {
       title: 'Pencil Sketch Bot',
       img: IMG5,
       description:'Tweeting an image along with the hashtag #PicSketch, triggers the bot to respond with a pencil sketch image.',
-      technologies: '🧰Stack: Python, Numpy, OpenCV, Pillow, Tweepy, Heroku',
+      technologies: '🧰Stack: Python, Numpy, OpenCV, Pillow, Tweepy, GitHub Actions',
       link: 'https://twitter.com/i/flow/login',
       github: 'https://github.com/ShruAgarwal/Twitter-bot',
     },
@@ -93,6 +92,15 @@ const Portfolio = () => {
             </div>
           </article>
         ))}
+      </div><br/><br/>
+      <div className="portfolio__item-cta-1">
+        <a
+        href="https://github.com/ShruAgarwal"
+        target="_blank"
+        className="btn"
+        rel="noreferrer">
+          Check out my open-source contributions on GitHub 👉
+        </a>
       </div>
     </section>
   );
