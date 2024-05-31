@@ -1,0 +1,42 @@
+export const soloProjects = [
+  {
+    id: 1,
+    title: 'Streamlit Beginner Template',
+    img: 'assets/template.png',
+    technologies: '🧰Stack: Python, Streamlit, Replit',
+    link: 'https://shruagarwal-streamlit-template-streamlit-app-c2x1s5.streamlitapp.com/',
+    github: 'https://github.com/ShruAgarwal/streamlit_template',
+  },
+  {
+    id: 2,
+    title: 'Streamlit Custom Toggle',
+    img: 'assets/pypi.gif',
+    technologies: '🧰Stack: Python, Typescript, HTML, Shell script, Pypi package',
+    link: 'https://shru-examples.streamlit.app/Heart_Toggle_Switch',
+    github: 'https://github.com/ShruAgarwal/streamlit-custom-toggle',
+  },
+  {
+    id: 3,
+    title: 'Magical Image Art',
+    img: 'assets/magic_art.png',
+    technologies: '🧰Stack: OpenCV, Numpy, Pillow, Streamlit',
+    link: 'https://magical-image-art.streamlitapp.com/',
+    github: 'https://github.com/ShruAgarwal/Magical_Image_Art',
+  },
+  {
+    id: 4,
+    title: 'Daily Horoscope App',
+    img: 'assets/zodiac.gif',
+    technologies: '🧰Stack: Aztro API, Python, Streamlit',
+    link: 'https://shruagarwal-streamlit-horoscope-horoscope-app-gws5c9.streamlitapp.com/',
+    github: 'https://github.com/ShruAgarwal/streamlit-horoscope',
+  },
+  {
+    id: 5,
+    title: 'Pencil Sketch Bot',
+    img: 'assets/bot.gif',
+    technologies: '🧰Stack: Python, Numpy, OpenCV, Pillow, Tweepy, GitHub Actions',
+    link: 'https://twitter.com/i/flow/login',
+    github: 'https://github.com/ShruAgarwal/Twitter-bot',
+  },
+];
