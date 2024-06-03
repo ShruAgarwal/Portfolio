@@ -3,7 +3,7 @@
 🛠 Built using **React** and **CSS**.
 
 <p align="center">
-  <img src="https://github.com/ShruAgarwal/Portfolio/blob/main/device-views.png"/>
+  <img src="https://github.com/ShruAgarwal/Portfolio/blob/main/site-views.png"/>
 </p>
 
 <!--- ## Live Demo [Live Demo](https://meri-mg-portfolio.netlify.app/)-->
