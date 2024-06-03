@@ -21,8 +21,9 @@ const Intro = () => {
             <article className="about__card">
               <FaSuitcase className="about__icon" />
               <h5>Looking</h5>
-              <small>for opportunities in Backend Python Development, Machine Learning Engineering,
-            and Full Stack Development roles</small>
+              <small>for opportunities in<br/>
+              Backend Python Development &<br/>
+              Machine Learning Engineering roles</small>
             </article>
             <article className="about__card">
               <MdAutoAwesomeMosaic className="about__icon" />

@@ -57,4 +57,9 @@
     .client__review {
         width: var(--container-width-sm);
     }
+
+    .client__image {
+        width: var(--container-width-sm);
+    }
+
 }
